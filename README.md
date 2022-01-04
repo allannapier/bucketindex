@@ -1,5 +1,5 @@
 # bucketindex
-Indexes files in a azure storage bucket and creates metadata for each file
+Indexes files in an azure storage bucket and creates metadata for each file
 
 Metadata will be things like document type (Document, Image File etc) and the category of the document (invoice, menu, order form, certificate etc)
 
